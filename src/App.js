@@ -60,7 +60,7 @@ function App() {
             <h3>{item.headline}</h3>
             <p>{item.primaryText}</p>
             <p>{item.description}</p>
-            <p>{item.CTA}</p>
+            <button >{item.CTA}</button>
           </div>
         ))
         }
